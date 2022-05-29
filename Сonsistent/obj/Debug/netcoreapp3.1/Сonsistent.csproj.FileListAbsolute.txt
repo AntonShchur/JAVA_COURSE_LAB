@@ -1,0 +1,14 @@
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\bin\Debug\netcoreapp3.1\Сonsistent.exe
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\bin\Debug\netcoreapp3.1\Сonsistent.deps.json
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\bin\Debug\netcoreapp3.1\Сonsistent.runtimeconfig.json
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\bin\Debug\netcoreapp3.1\Сonsistent.runtimeconfig.dev.json
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\bin\Debug\netcoreapp3.1\Сonsistent.dll
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\bin\Debug\netcoreapp3.1\Сonsistent.pdb
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\obj\Debug\netcoreapp3.1\Сonsistent.csproj.AssemblyReference.cache
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\obj\Debug\netcoreapp3.1\Сonsistent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\obj\Debug\netcoreapp3.1\Сonsistent.AssemblyInfoInputs.cache
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\obj\Debug\netcoreapp3.1\Сonsistent.AssemblyInfo.cs
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\obj\Debug\netcoreapp3.1\Сonsistent.csproj.CoreCompileInputs.cache
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\obj\Debug\netcoreapp3.1\Сonsistent.dll
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\obj\Debug\netcoreapp3.1\Сonsistent.pdb
+C:\Anton Shchur\Programming\CourseLabJava\MatrixMultiplication\Сonsistent\obj\Debug\netcoreapp3.1\Сonsistent.genruntimeconfig.cache
