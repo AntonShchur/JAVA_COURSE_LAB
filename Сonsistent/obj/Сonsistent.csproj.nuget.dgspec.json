@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Anton Shchur\\Programming\\CourseLabJava\\MatrixMultiplication\\Сonsistent\\Сonsistent.csproj": {}
+    "C:\\Users\\Anton\\Desktop\\JAVA_COURSE_LAB-main\\Сonsistent\\Сonsistent.csproj": {}
   },
   "projects": {
-    "C:\\Anton Shchur\\Programming\\CourseLabJava\\MatrixMultiplication\\Сonsistent\\Сonsistent.csproj": {
+    "C:\\Users\\Anton\\Desktop\\JAVA_COURSE_LAB-main\\Сonsistent\\Сonsistent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Anton Shchur\\Programming\\CourseLabJava\\MatrixMultiplication\\Сonsistent\\Сonsistent.csproj",
+        "projectUniqueName": "C:\\Users\\Anton\\Desktop\\JAVA_COURSE_LAB-main\\Сonsistent\\Сonsistent.csproj",
         "projectName": "Сonsistent",
-        "projectPath": "C:\\Anton Shchur\\Programming\\CourseLabJava\\MatrixMultiplication\\Сonsistent\\Сonsistent.csproj",
+        "projectPath": "C:\\Users\\Anton\\Desktop\\JAVA_COURSE_LAB-main\\Сonsistent\\Сonsistent.csproj",
         "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Anton Shchur\\Programming\\CourseLabJava\\MatrixMultiplication\\Сonsistent\\obj\\",
+        "outputPath": "C:\\Users\\Anton\\Desktop\\JAVA_COURSE_LAB-main\\Сonsistent\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",

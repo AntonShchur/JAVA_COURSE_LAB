@@ -52,11 +52,13 @@ namespace Сonsistent
             this.n_rows = n_rows;
             this.n_columns = n_cols;
             this.matrix = new double[n_rows, n_cols];
+            int k = 0;
             for (int i = 0; i < n_rows; i++)
             {
                 for (int j = 0; j < n_cols; j++)
                 {
-                    this.matrix[i, j] = double.Parse(numbers[i + j]);
+                    this.matrix[i, j] = double.Parse(numbers[k]);
+                    k++;
                 }
             }
         }
